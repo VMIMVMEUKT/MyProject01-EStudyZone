@@ -1,0 +1,22 @@
+SMAP
+ManageEnquiry_jsp.java
+JSP
+*S JSP
+*F
++ 0 ManageEnquiry.jsp
+adminzone/ManageEnquiry.jsp
++ 1 headermenu.jsp
+adminzone/admin_masterpages/headermenu.jsp
+*L
+1,44:51
+1#1,55:95
+44#0,9:150
+53:159,3
+54,7:162
+61,5:170
+65,2:175
+67,3:177,3
+70:186
+71,2:188
+72,22:190
+*E
